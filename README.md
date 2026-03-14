@@ -12,10 +12,10 @@ The objective of this project is to analyze customer demand, rooftop feasibility
 
 ## Objectives
 
-* Analyze solar rooftop market opportunities
-* Identify potential customers for solar installation
-* Understand customer requirements and location patterns
-* Visualize market research data using Power BI
+* To Analyze solar rooftop market opportunities.
+* To Identify potential customers for solar installation.
+* To Understand customer requirements and location patterns.
+* To Visualize market research data using Power BI.
 
 ---
 
