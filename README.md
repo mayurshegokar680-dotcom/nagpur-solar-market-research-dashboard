@@ -1,6 +1,6 @@
 # nagpur-solar-market-research-dashboard
 Power BI dashboard analyzing solar adoption trends in Nagpur using market research data including electricity bills, rooftop size, customer type, and solar awareness.
-# Dhanshree Industries – Solar Market Analysis (Power BI Dashboard)
+# Dhanashree Industries – Solar Market Analysis (Power BI Dashboard)
 
 ## Project Overview
 
